@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace test.iOS
+namespace Phoneword.iOS
 {
     public class Application
     {

@@ -17,7 +17,7 @@ namespace test
         public CloudDataStore()
         {
             client = new HttpClient();
-            client.BaseAddress = new Uri($"{App.BackendUrl}/");
+            //client.BaseAddress = new Uri($"{App.BackendUrl}/");
 
             items = new List<Item>();
         }
